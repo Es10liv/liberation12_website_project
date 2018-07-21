@@ -1,0 +1,44 @@
+@charset "utf-8";
+#nav {
+	background-color: #111E5E;
+	text-align: center;
+	word-spacing: normal;
+}
+.navigation {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: x-large;
+	font-style: oblique;
+	color: #FFFFFF;
+	
+}
+body h1 {
+	background-color: #3E4E44;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+}
+
+
+body h1 img {
+	clear: both;
+	overflow-x: scroll;
+	overflow-y: scroll;
+	visibility: visible;
+	display: inherit;
+
+}
+body {
+	background-color: #3E4E44;
+}
+#main {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#img {
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+#main h4 {
+	font-style: italic;
+}
